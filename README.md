@@ -11,7 +11,7 @@ Dev, and loving it so far!!
 
 - 👨‍💻 I am currently working on [NewsApp](https://github.com/anin-4/NewsApp)
 - 📚 I am learning Android Dev (Always learning!)
-- 📘 I love reading Books!
+- 📘 I love reading Books! - currently reading Red Rising
 
 
 
