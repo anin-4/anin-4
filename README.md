@@ -6,7 +6,7 @@
 I am currently pursuing my bachelors in computer science 
 from VIT vellore university. I love exploring various technologies
 and creating fun and useful projects. I started by learning MERN stack
-last year and I loved it. Now, I have indulged myself in learning Android
+last year and I loved it. Now, I have indulged myself into learning Android
 Dev, and loving it so far!!
 
 - 👨‍💻 I am currently working on [NewsApp](https://github.com/anin-4/NewsApp)
