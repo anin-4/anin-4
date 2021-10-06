@@ -12,7 +12,7 @@ Dev, and loving it so far!!
 - 👨‍💻 I am currently working on [RunTrackerApp](https://github.com/anin-4/RunningApp)
 - 📚 I am learning Android Dev (Always learning!)
 - 📘 I love reading Books! - currently reading Red Rising
-- 🥅 Goal- To start with open source and writing blogs
+- 🥅 Goal- To start with open source and write blogs
 
 
 
