@@ -9,9 +9,10 @@ and creating fun and useful projects. I started by learning MERN stack
 last year and I loved it. Now, I have indulged myself into learning Android
 Dev, and loving it so far!!
 
-- 👨‍💻 I am currently working on [NewsApp](https://github.com/anin-4/NewsApp)
+- 👨‍💻 I am currently working on [RunTrackerApp](https://github.com/anin-4/RunningApp)
 - 📚 I am learning Android Dev (Always learning!)
 - 📘 I love reading Books! - currently reading Red Rising
+- 🥅 Goal- To start with open source and writing blogs
 
 
 
