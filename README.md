@@ -11,7 +11,7 @@ Dev, and loving it so far!!
 
 - 👨‍💻 I am currently working on [memeShare](https://github.com/anin-4/memeShare)
 - 📚 I am learning Android Dev (Always learning!)
-- 📘 I love reading Books! - currently reading Red Rising
+- 📘 I love reading Books! - currently reading Golden Son
 - 🥅 Goal- To start with open source and write blogs
 
 
