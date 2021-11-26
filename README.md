@@ -9,7 +9,7 @@ and creating fun and useful projects. I started by learning MERN stack
 last year and I loved it. Now, I have indulged myself into learning Android
 Dev, and loving it so far!!
 
-- 👨‍💻 I am currently working on [memeShare](https://github.com/anin-4/memeShare)
+- 👨‍💻 I am currently working on [fireStoreChatApp](https://github.com/anin-4/FireStoreChatApp)
 - 📚 I am learning Android Dev (Always learning!)
 - 📘 I love reading Books! - currently reading Golden Son
 - 🥅 Goal- To start with open source and write blogs
