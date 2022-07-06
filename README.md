@@ -9,7 +9,7 @@ and creating fun and useful projects. I started by learning MERN stack
 last year and I loved it. Now, I have indulged myself into learning Android
 Dev, and loving it so far!!
 
-- 👨‍💻 I am currently working on [fireStoreChatApp](https://github.com/anin-4/FireStoreChatApp)
+- 👨‍💻 I am currently working on [Healtify](https://github.com/anin-4/Healthify)
 - 📚 I am learning Android Dev (Always learning!)
 - 📘 I love reading Books! - currently reading Golden Son
 - 🥅 Goal- To start with open source and write blogs
